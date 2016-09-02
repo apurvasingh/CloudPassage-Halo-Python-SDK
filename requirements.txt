@@ -1,0 +1,3 @@
+pyaml
+pylama
+requests>=2.7

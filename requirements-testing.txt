@@ -1,0 +1,8 @@
+mock
+pyaml
+pylama
+pytest
+pytest-flake8
+pyflakes==1.2.3
+flake8==3.0
+requests>=2.7
